@@ -1,0 +1,1 @@
+ini buat script javascript
